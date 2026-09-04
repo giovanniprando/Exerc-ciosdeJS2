@@ -1,4 +1,5 @@
-/* // Exercício 1
+/* 
+// Exercício 1
 let idade = 17;
 
 if (idade >= 18) {
@@ -6,36 +7,36 @@ if (idade >= 18) {
 } else {
   console.log("Menor de idade");
 }
-*/
+
 // Exercício 2
-/* 
+
 let nota = 8;
 if (nota >= 7) {
   console.log("Aprovado");
 } else {
   console.log("Reprovado");
 }
- */
+
 // Exercício 3
-/* 
+
 let numero = -5;
 if (numero > 0) {
   console.log("Positivo");
 } else {
   console.log("Negativo");
 }
- */
+
 // Exercício 4
-/* 
+
 let numero = 10;
 if (numero % 2 === 0) {
   console.log("O número é par");
 } else {
   console.log("O número é impar");
 }
- */
+
 // Exercício 5
-/* 
+
 let nota = 8;
 let frequencia = 80;
 
@@ -44,9 +45,9 @@ if (nota >= 7 && frequencia >= 75) {
 } else {
   console.log("Reprovado");
 }
-*/
+
 // Exercício 6
-/* 
+
 let valorCompra = 400;
 let possuiCartao = true;
 
@@ -55,9 +56,9 @@ if (valorCompra > 500 || possuiCartao) {
 } else {
   console.log("Cliente não ganhou desconto!");
 }
- */
+
 // Exercício 7
-/* 
+
 let usuario = "admin";
 let senha = "1234";
 
@@ -66,10 +67,10 @@ if (usuario === "admin" && senha === "1234") {
 } else {
   console.log("Usuário ou senha incorretos!");
 }
- */
+
 
 // Exercício 8
-/* 
+
 let idade = 25;
 
 if ((idade === 0) === 12) {
@@ -79,10 +80,9 @@ if ((idade === 0) === 12) {
 } else {
   console.log("Adulto");
 }
- */
 
 //Exercício 9
-/* 
+
 let compra = 250;
 let clienteVIP = true;
 
@@ -91,9 +91,9 @@ if (compra >= 300 && clienteVIP) {
 } else {
   console.log("Frete pago!");
 }
- */
+
 // Atividade 10
-/* 
+
 let idade = 21;
 let possuiIngresso = true;
 
@@ -102,9 +102,9 @@ if (idade >= 18 && possuiIngresso) {
 } else {
   console.log("Bloqueada");
 }
- */
+
 //Desafio Final
-/* 
+
 let nome = "Carlos";
 let idade = 18;
 let nota = 8;
@@ -123,6 +123,5 @@ if (nota >= 8 && frequencia >= 75) {
   console.log("Aprovado");
 } else {
   console.log("Reprovado");
-} */
-
-//Desafio Extra
+}
+*/
